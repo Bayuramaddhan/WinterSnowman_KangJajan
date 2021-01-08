@@ -6,7 +6,7 @@
 package Main;
 
 /**
- *
+ * @author Bayu Ramadhan
  * @author Fiya Yufita
  */
 public class Tea extends javax.swing.JFrame {
