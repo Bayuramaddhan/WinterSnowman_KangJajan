@@ -7,7 +7,7 @@ package Main;
 
 /**
  *
- * @author ACER
+ * @author Fiya Yufita
  */
 public class Coffee extends javax.swing.JFrame {
 
