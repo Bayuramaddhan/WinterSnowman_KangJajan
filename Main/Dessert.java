@@ -7,7 +7,7 @@ package Main;
 
 /**
  *
- * @author ACER
+ * @author Fiya Yufita
  */
 public class Dessert extends javax.swing.JFrame {
 
