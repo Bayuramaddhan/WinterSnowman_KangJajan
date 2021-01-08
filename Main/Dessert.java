@@ -8,6 +8,7 @@ package Main;
 /**
  *
  * @author Fiya Yufita
+ * @author Bayu Ramadhan
  */
 public class Dessert extends javax.swing.JFrame {
 
