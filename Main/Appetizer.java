@@ -7,7 +7,7 @@ package Main;
 
 /**
  *
- * @author ACER
+ * @author Fiya Yufita
  */
 public class Appetizer extends javax.swing.JFrame {
     
