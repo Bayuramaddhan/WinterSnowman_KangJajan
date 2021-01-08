@@ -7,7 +7,8 @@ package Main;
 
 /**
  *
- * @author ACER
+ * @author 
+ * @author Bayu Ramadhan
  */
 public class MainDish extends javax.swing.JFrame {
 
