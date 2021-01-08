@@ -8,6 +8,7 @@ package Main;
 /**
  *
  * @author Fiya Yufita
+ * @author Bayu Ramadhan
  */
 public class Appetizer extends javax.swing.JFrame {
     
